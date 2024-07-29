@@ -42,7 +42,7 @@ Para começar com os exercícios, siga estes passos:
 
 ### Sequencial 🟢
 
-Os exercícios desta seção focam nos conceitos básicos de programação sequencial. Você aprenderá a escrever programas simples que executam instruções em sequência.
+Os exercícios desta seção focam nos conceitos básicos de programação sequencial. Você aprenderá a escrever programas simples que executam instruções em sequência. [Exercícios de Estrutura Sequencial](src/seq)
 
 ### Condicional 🟡
 
