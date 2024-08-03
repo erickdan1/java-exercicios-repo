@@ -46,7 +46,7 @@ Os exercícios desta seção focam nos conceitos básicos de programação seque
 
 ### Condicional 🟢
 
-Nesta seção, você praticará o uso de declarações condicionais como `if`, `else if` e `switch` para tomar decisões em seus programas.
+Nesta seção, você praticará o uso de declarações condicionais como `if`, `else if` e `switch` para tomar decisões em seus programas. [Exercícios de Estrutura Condicional](src/cond)
 
 ### Repetição 🟡
 
