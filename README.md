@@ -44,7 +44,7 @@ Para começar com os exercícios, siga estes passos:
 
 Os exercícios desta seção focam nos conceitos básicos de programação sequencial. Você aprenderá a escrever programas simples que executam instruções em sequência. [Exercícios de Estrutura Sequencial](src/seq)
 
-### Condicional 🟡
+### Condicional 🟢
 
 Nesta seção, você praticará o uso de declarações condicionais como `if`, `else if` e `switch` para tomar decisões em seus programas.
 
