@@ -48,9 +48,9 @@ Os exercícios desta seção focam nos conceitos básicos de programação seque
 
 Nesta seção, você praticará o uso de declarações condicionais como `if`, `else if` e `switch` para tomar decisões em seus programas. [Exercícios de Estrutura Condicional](src/cond)
 
-### Repetição 🟡
+### Repetição 🟢
 
-Esta seção inclui exercícios sobre loops, incluindo loops `for`, `while` e `do-while`. Você aprenderá a repetir ações com base em certas condições.
+Esta seção inclui exercícios sobre loops, incluindo loops `for`, `while` e `do-while`. Você aprenderá a repetir ações com base em certas condições. [Exercícios de Estrutura Repetitiva](src/rep)
 
 ### Vetores 🟡
 
