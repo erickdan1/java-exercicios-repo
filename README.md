@@ -51,7 +51,7 @@ Nesta seção, você praticará o uso de declarações condicionais como `if`, `
 
 Esta seção inclui exercícios sobre loops, incluindo loops `for`, `while` e `do-while`. Você aprenderá a repetir ações com base em certas condições. [Exercícios de Estrutura Repetitiva](src/rep)
 
-### Vetores e Funcões 🟢
+### Vetores e Funções 🟢
 
 Os exercícios nesta sessão cobrem arrays (vetores) e sua manipulação, além de praticar a escrita de funções (métodos) para organizar seu código em blocos reutilizáveis. Você aprenderá a armazenar, acessar e manipular coleções de dados com vetores, e aprenderá sobre definições de funções, parâmetros e valores de retorno. [Exercícios de Vetores e Funções](src/vet_func) 
 
