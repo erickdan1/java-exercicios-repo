@@ -1,6 +1,6 @@
 # Beginning Java Language (BJL)
 
-Bem-vindo ao repositório de exercícios de Beginning Java Language (BJL)! Este repositório foi criado para servir de banco de questões solucionadas que podem ajudar iniciantes a praticar e melhorar suas habilidades de programação em Java por meio de uma variedade de exercícios. Os exercícios buscam cobrir conceitos fundamentais de Java, incluindo programação sequencial, declarações condicionais, loops, arrays, funções, pacotes e trabalho com APIs usando arquivos `.jar`.
+Bem-vindo ao repositório de exercícios de Beginning Java Language (BJL)! Este repositório foi criado para servir de banco de questões solucionadas que podem ajudar iniciantes a praticar e melhorar suas habilidades de programação em Java por meio de uma variedade de exercícios. Os exercícios buscam cobrir conceitos fundamentais de Java, incluindo programação sequencial, declarações condicionais, loops, arrays e funções.
 
 ## Índice
 
@@ -11,8 +11,6 @@ Bem-vindo ao repositório de exercícios de Beginning Java Language (BJL)! Este 
   - [Condicional](#condicional)
   - [Repetição](#repetição)
   - [Vetores e Funções](#vetores-e-funções)
-  - [Pacotes](#pacotes)
-  - [APIs com .Jar files](#apis-com-jar-files)
 - [Contribuindo](#contribuindo)
   
 ## Introdução
@@ -54,14 +52,6 @@ Esta seção inclui exercícios sobre loops, incluindo loops `for`, `while` e `d
 ### Vetores e Funções 🟢
 
 Os exercícios nesta sessão cobrem arrays (vetores) e sua manipulação, além de praticar a escrita de funções (métodos) para organizar seu código em blocos reutilizáveis. Você aprenderá a armazenar, acessar e manipular coleções de dados com vetores, e aprenderá sobre definições de funções, parâmetros e valores de retorno. [Exercícios de Vetores e Funções](src/vet_func) 
-
-### Pacotes 🟡
-
-Esta seção aborda o conceito de pacotes em Java. Você aprenderá a organizar seu código em diferentes pacotes e gerenciar dependências.
-
-### APIs com .Jar files 🟡
-
-Nesta seção, você aprenderá a trabalhar com bibliotecas e APIs externas usando arquivos `.jar`. Você praticará a integração de bibliotecas de terceiros em seus projetos e o uso de suas funcionalidades.
 
 ## Contribuindo
 
